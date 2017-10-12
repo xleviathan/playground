@@ -1,5 +1,5 @@
 """"KIMYA CALCULATOR V1.0 
-SIGNATURE:www.github.com/leviathan
+SIGNATURE:www.github.com/xleviathan/playground
 Genel kimya hesaplamalari ve problemlerinde kullanilan ufak bir script.
 Cok ileri problemler icin biraz bilek gucune ihtiyac duyabilirsiniz.
 FONKSIYONLARIN GOREVLERI:Kendilerini aciklamalarinda belirtmislerdir.
